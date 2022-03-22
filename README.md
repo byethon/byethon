@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gurmehar Singh
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning Computer Vision
+- 👀 I’m interested in Electronics and CC
+- 🌱 I’m currently Competitive Coding
 
 <!---
 byethon/byethon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
