@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gurmehar Singh
-- 👀 I’m interested in Electronics and CC
+- 👀 I’m interested in Electronics and Python Programming
 - 🌱 I’m currently learning about IoT Devices
 
 <!---
